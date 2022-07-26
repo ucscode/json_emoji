@@ -72,7 +72,7 @@ Like the example below
           "icon":"😂",
           "img":"data:image/png;base64,..."
         },
-        ...
+        "..."
     ],
     "emotion": [
         {
@@ -82,8 +82,8 @@ Like the example below
           "icon":"💋",
           "img":"data:image/png;base64,..."
         },
-        ...
+        "..."
     ],
-    ...
+    "..."
   }
 ```
