@@ -70,7 +70,7 @@ Like the example below
           "hex":"1F602",
           "dec":"128514",
           "icon":"😂",
-          "img":""data:image/png;base64,..."
+          "img":"data:image/png;base64,..."
         },
         ...
     ],
@@ -80,7 +80,7 @@ Like the example below
           "hex":"1F48B",
           "dec":"128139",
           "icon":"💋",
-          "img":""data:image/png;base64,..."
+          "img":"data:image/png;base64,..."
         },
         ...
     ],
