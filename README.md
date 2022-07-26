@@ -59,8 +59,9 @@ The various emoji are grouped into 50 categories which includes:
 - Flag
 
 Each category contains a list of object.\
-The object contains emoji the emoji in different format which includes image, hex, dec and HTML entity.\
-Like the example below
+The object contains emoji the emoji in different format which includes image, hex, dec and HTML entity.
+
+#### Like the example below
 
 ```json
   {
