@@ -89,5 +89,13 @@ The object contains emojis in different format which includes image, hex, dec an
   }
 ```
 
+### Usage
+
 Since it's a json format,  it can literally be used in any programming language.\
 I created this for use in a WYSIWYG Editor project to add icons. However, I believe this could also be helpful to others who may need it.
+
+### Caution
+
+Be careful while trying to output every emoji data in your browser. It could potentially cause your browser to run slower (or even your editor) due to the large file contents
+
+## Have a nice programming day!
