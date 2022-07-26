@@ -88,3 +88,5 @@ The object contains emojis in different format which includes image, hex, dec an
     "..."
   }
 ```
+
+Since it's a json format,  it can literally be used in any programming language.
